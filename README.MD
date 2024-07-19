@@ -4,4 +4,4 @@ As principais seções da página de destino incluem um cabeçalho marcante com 
 
 Os elementos interativos são projetados para responder à entrada do usuário, principalmente por meio de animações acionadas por rolagem. Essa abordagem significa que conforme os usuários rolam a página para baixo, diferentes elementos ganham vida com animações, criando um fluxo dinâmico que mantém o usuário engajado. Este método não só melhora a experiência do usuário, mas também reforça a identidade de forma da marca Fanta
 
-![]()
+![](https://github.com/caua-dev-coder/Fanta-Landing-Page/blob/main/fanta.gif?raw=true)
